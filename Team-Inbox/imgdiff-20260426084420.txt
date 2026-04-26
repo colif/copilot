@@ -1,0 +1,12 @@
+ID: imgdiff-20260426084420
+Recipient: team
+Sent_at (epoch): 1777193060
+
+Summary: Image diff: window and faucet (high confidence)
+
+Details:
+Differences detected between stacked images:
+1) Top-left window: solid blue (top) vs clouds (bottom) — very high confidence.
+2) Sink faucet: gold/yellow (top) vs silver/gray (bottom) — very high confidence.
+
+Note: Clothes/hanger difference ignored per LARRY (insignificant).
