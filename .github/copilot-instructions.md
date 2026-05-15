@@ -1,7 +1,7 @@
 # Copilot Instructions for LARRY's Team Repository
 
 ## Purpose
-This repository documents and operates LARRY's Team — a small, role-driven AI orchestration framework. Use this file as the entrypoint for Copilot sessions: it explains where to start, how work is routed, and repository-specific conventions Copilot should follow.
+This repository documents and operates LARRY's Team — a small, role-driven AI orchestration framework. Use this file as the entrypoint for Copilot sessions: it explains where to start, how work is routed, and repository-specific conventions Copilot should follow. chg1
 
 ---
 
